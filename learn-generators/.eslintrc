@@ -1,0 +1,6 @@
+{
+  "ecmaFeatures": {
+    "generators": true,
+    "forOf": true
+  }
+}
