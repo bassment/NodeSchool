@@ -1,6 +1,5 @@
 {
-  "ecmaFeatures": {
-    "generators": true,
-    "forOf": true
+  "env": {
+    "es6": true
   }
 }
